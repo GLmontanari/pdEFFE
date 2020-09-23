@@ -5,6 +5,12 @@ Sviluppare un'app per editare i pdf.
 la cartella 'pdeffe' è un Python package che può essere compilato e installato con 'pip'.
 Più dettagli nel file 'build_ship_package' della cartella 'guide'.
 
+# Requisiti
+Vuole
+- Python >= 3.4
+- PyQt5
+- PyPDF2
+
 # Come contribuire
 - [ ] usare questa lista per scrivere le milestones del progetto
 - [ ] aggiungere cartella esempio C++
